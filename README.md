@@ -1,5 +1,5 @@
 # update_qbittorrent_port
-This script pulls the current open ProtonVPN port from Gluetun and sets it as the active port in qbittorrent.
+This script pulls the current open ProtonVPN port from Gluetun and sets it as the active port in qbittorrent. Credit to fizzxed for initial script (https://gist.github.com/fizzxed/958d8cdfa4dad8a97651afce4d74efce)
 
 Edit the qbittorrent and gluetun variables at the top of the script.
 
