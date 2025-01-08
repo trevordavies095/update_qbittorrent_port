@@ -8,9 +8,7 @@ Below is my Gluetun config.toml
 ```
 [[roles]]
 name = "qbittorrent"
-# Define a list of routes with the syntax "Http-Method /path"
 routes = ["GET /v1/openvpn/portforwarded", "GET /v1/publicip/ip"]
-# Define an authentication method with its parameters
 auth = "apikey"
 apikey = ""
 ```
